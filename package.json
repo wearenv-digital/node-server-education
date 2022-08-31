@@ -1,0 +1,26 @@
+{
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "server-education",
+  "description": "litle test app",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wearenv-digital/node-server-education.git"
+  },
+  "keywords": [
+    "fun"
+  ],
+  "author": "me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wearenv-digital/node-server-education/issues"
+  },
+  "homepage": "https://github.com/wearenv-digital/node-server-education#readme",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.1"
+  }
+}
